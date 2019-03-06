@@ -1,4 +1,6 @@
-
+# Reddit Sentiment Analysis
+_____________________________________________
+#### Using Vader Sentiment Analysis Library, PRAW(Python Reddit Wrapper) with MatplotLib and WordCloud for visualization
 
 ```python
 import numpy as np
@@ -327,7 +329,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](images/output_16_0.png)
 
 
 
@@ -351,7 +353,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](images/output_18_0.png)
 
 
 
@@ -509,7 +511,7 @@ plt.show()
 ```
 
 
-![png](output_23_0.png)
+![png](images/output_23_0.png)
 
 
 
@@ -555,5 +557,5 @@ word_cloud(reddit_comments)
 ```
 
 
-![png](output_27_0.png)
+![png](images/output_27_0.png)
 
